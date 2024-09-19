@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dion Calim</h1>
 <h3 align="center">A driven Software Engineer Student from Canada</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
-- 📅 I'm currently working on **Event Calender**
+- 🔭 I’m currently working on **Calorie Tracker Web App**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dion-calim-97b71b2ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dion-calim" height="30" width="40" /></a>
